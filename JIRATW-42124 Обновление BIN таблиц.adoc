@@ -1,0 +1,31 @@
+Инструкция
+
+[arabic]
+. TWI
+
+В инстанции TWI
+
+[arabic]
+. Зайти в модуль “0008 – BIN Writer 10”
+
+Нажать кнопку “Активировать”
+
+Дождаться сообщения “Создание файла завершено”
+
+[arabic, start=2]
+. Зайти в модуль “0240 – BIN Writer 336”
+
+Нажать кнопку “Активировать”
+
+Дождаться сообщения “Создание файла завершено”
+
+image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image1.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image1,width=410,height=296]
+
+image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image2.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image2,width=405,height=348]
+
+[arabic, start=2]
+. TWCMS Br.1
+
+Пуск – Функции – Макропроцессор – Выполнить макрос “Загрузка BIN-tables в MO”
+
+image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image3.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image3,width=506,height=482]

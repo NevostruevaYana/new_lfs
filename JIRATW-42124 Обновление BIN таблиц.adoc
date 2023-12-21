@@ -1,3 +1,4 @@
+[.lead]
 Инструкция
 
 [arabic]
@@ -8,9 +9,9 @@
 [arabic]
 . Зайти в модуль “0008 – BIN Writer 10”
 
-Нажать кнопку “Активировать”
+`Нажать` _кнопку_ *“Активировать”*
 
-Дождаться сообщения “Создание файла завершено”
+ Дождаться сообщения “Создание файла завершено”
 
 [arabic, start=2]
 . Зайти в модуль “0240 – BIN Writer 336”
@@ -18,6 +19,18 @@
 Нажать кнопку “Активировать”
 
 Дождаться сообщения “Создание файла завершено”
+
+[cols="1,1"]
+|===
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|===
 
 image:./extracted-media/media/image1.png[../extracted-media/media/image1.png,width=410,height=296]
 
@@ -29,3 +42,5 @@ image:./extracted-media/media/image2.png[./extracted-media/media/image2.png,widt
 Пуск – Функции – Макропроцессор – Выполнить макрос “Загрузка BIN-tables в MO”
 
 image:./extracted-media/media/image3.png[./extracted-media/media/image3.png,width=506,height=482]
+
+https://docs.asciidoctor.org/asciidoc/latest/tables/build-a-basic-table/

@@ -19,13 +19,13 @@
 
 Дождаться сообщения “Создание файла завершено”
 
-image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image1.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image1,width=410,height=296]
+image:./extracted-media/media/image1.png[../extracted-media/media/image1.png,width=410,height=296]
 
-image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image2.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image2,width=405,height=348]
+image:./extracted-media/media/image2.png[./extracted-media/media/image2.png,width=405,height=348]
 
 [arabic, start=2]
 . TWCMS Br.1
 
 Пуск – Функции – Макропроцессор – Выполнить макрос “Загрузка BIN-tables в MO”
 
-image:C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image3.png[C:\Users\nevos\OneDrive\Рабочий стол\DocAsCode\adoc_files_output\extracted-media/media/image3,width=506,height=482]
+image:./extracted-media/media/image3.png[./extracted-media/media/image3.png,width=506,height=482]
